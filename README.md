@@ -22,6 +22,15 @@ Code is in file.
    - `ops = zeros + neg` (each -1 requires 1 operation to flip partially)  
    - If `neg` is odd → add 1 extra operation to handle the odd negative.  
 
-5. **Print result:**  
+5. **Print result:**
+## Question 2->
+Sum of Alternating Sequence? Code is in file.
+## Algorithm (5 Steps)
+
+1. Read the number of test cases `t`.  
+2. Repeat for each test case:  
+3. Read the integers `x` and `n`.  
+4. If `n` is even, set `sum = 0`; else set `sum = x`.  
+5. Print `sum`.  
    - Output the minimum number of operations for the current test case.  
 
