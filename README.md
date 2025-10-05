@@ -25,7 +25,7 @@ Code is in file.
 5. **Print result:**
 ## Question 2->
 Sum of Alternating Sequence? Code is in file.
-## Algorithm (5 Steps)
+## Algorithm
 
 1. Read the number of test cases `t`.  
 2. Repeat for each test case:  
