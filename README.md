@@ -1,9 +1,9 @@
 # TJ-Tasks-2025--Anubhav_Mishra-
 # DSA - Beginner/Easy: Minimum Operations to Make Product Positive
 
-## Question 1
+## Question 1->
 
-## Algorithm (5 Steps)
+## Algorithm:
 
 1. **Count zeros and -1s:**  
    - Loop through the array.  
