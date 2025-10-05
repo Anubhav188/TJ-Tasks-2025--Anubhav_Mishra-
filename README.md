@@ -2,6 +2,7 @@
 # DSA - Beginner/Easy: Minimum Operations to Make Product Positive
 
 ## Question 1->
+Code is in file.
 
 ## Algorithm:
 
