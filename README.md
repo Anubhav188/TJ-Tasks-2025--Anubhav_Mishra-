@@ -1,7 +1,8 @@
 # TJ-Tasks-2025--Anubhav_Mishra-
-# DSA - Beginner/Easy: Minimum Operations to Make Product Positive
-
+# DSAMinimum Operations to Make Product Positive
+## Beginner/Easy:
 ## Question 1->
+Minimum Operations to Make Product Positive?
 Code is in file.
 
 ## Algorithm:
