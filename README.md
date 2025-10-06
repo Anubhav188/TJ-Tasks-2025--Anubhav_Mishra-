@@ -36,19 +36,19 @@ Sum of Alternating Sequence? Code is in file.
 ## Question 3-> 
 Trippi Troppi's world. Code is in file above.
 ## Algorithm
-1. Read Input.
+1. **Read Input.**
      -Read an integer `t` — the number of test cases.
 
-2. Loop Through Test Cases.
+2. **Loop Through Test Cases.**
     -Repeat the following steps `t` times.
 
-3.Read Words.
+3. **Read Words.**
     -For each test case, read three space-separated words.
 
-4. Form Modern Name.
+4. **Form Modern Name.**
     -Take the first letter of each word.
     -Concatenate them to form the modern name.
 
-5. Print `Result.`
+5. **Print `Result.`**
     -Output the modern name.
 
