@@ -32,5 +32,23 @@ Sum of Alternating Sequence? Code is in file.
 3. Read the integers `x` and `n`.  
 4. If `n` is even, set `sum = 0`; else set `sum = x`.  
 5. Print `sum`.  
-   - Output the minimum number of operations for the current test case.  
+   - Output the minimum number of operations for the current test case.
+## Question 3-> 
+Trippi Troppi's world. Code is in file above.
+## Algorithm
+1. Read Input.
+     -Read an integer `t` — the number of test cases.
+
+2. Loop Through Test Cases.
+    -Repeat the following steps `t` times.
+
+3.Read Words.
+    -For each test case, read three space-separated words.
+
+4. Form Modern Name.
+    -Take the first letter of each word.
+    -Concatenate them to form the modern name.
+
+5. Print `Result.`
+    -Output the modern name.
 
