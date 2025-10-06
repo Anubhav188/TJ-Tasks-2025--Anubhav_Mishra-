@@ -54,8 +54,9 @@ Trippi Troppi's world. Code is in file above.
 
 
 # Vibe Coding
-##Task 1: Tic Tac Toe Game in One Prompt (Easy)
-**Prompt:**
+## Task 1: Tic Tac Toe Game in One Prompt (Easy)
+**Prompt:**  
+
  **Create a complete, fully functional Tic Tac Toe game for two players with a neat 3x3 grid using HTML, CSS, and JavaScript in a single file. Include game logic for turns, display the current player, detect win or draw, highlight the winning combination, and allow replay without refreshing the page. Provide only working code in one file, ready to open in a browser, with explanations or comments.**
 
 
