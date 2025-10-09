@@ -57,6 +57,11 @@ Trippi Troppi's world. Code is in file above.
 ## Task 1: Tic Tac Toe Game in One Prompt (Easy)
 **Prompt:**  
 
- **Create a complete, fully functional Tic Tac Toe game for two players with a neat 3x3 grid using HTML, CSS, and JavaScript in a single file. Include game logic for turns, display the current player, detect win or draw, highlight the winning combination, and allow replay without refreshing the page. Provide only working code in one file, ready to open in a browser, with explanations or comments.**
+ **Create a complete, fully functional Tic Tac Toe game for two players with a neat 3x3 grid using HTML, CSS, and JavaScript in a single file. Include game logic for turns, display the current player, detect win or draw, highlight the winning combination, and allow replay without refreshing the page. Provide only working code in one file, ready to open in a browser, with explanations or comments.**  
+## Task 2: Chat Application with Backend Integration (Medium)
+**Prompt**  
+
+**Build a fully functional real-time chat application with a modern frontend UI (supporting multiple users, messages with timestamps and sender names) and a backend API for storing and retrieving messages, using WebSockets or polling for real-time updates. Deploy both frontend and backend with public URLs, provide a .txt documenting all creation prompts, use readable code with traditional loops, and ensure multi-user messaging works seamlessly, demonstrating familiarity with AI agents and prompt chaining within a maximum of 6 creation prompts.**
+ 
 
 
